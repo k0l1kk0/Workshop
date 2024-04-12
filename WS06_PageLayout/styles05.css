@@ -62,10 +62,10 @@ footer {
   padding: 0.5em;
 }
 a:link {
-  color:red;
+  color:hotpink;
 }
 a:visited {
-  color: hotpink;
+  color:azure ;
 }
 a:hover {
   color: red;
