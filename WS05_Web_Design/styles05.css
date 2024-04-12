@@ -1,0 +1,31 @@
+h1 {
+    background-color: coral;
+    padding-left: 800px;
+    
+}
+nav {
+    float: left;
+    width: 5%;
+    background: aqua;
+    padding: 10px;
+}
+article {
+    background-color: chartreuse;
+}
+footer {
+    background-color: darkkhaki;
+}
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+aside {
+    background-color: darkorchid;
+    float: right;
+    width: 70%;
+    padding: 16px;
+}
+section {
+    background: darkred
+}

@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(250, 5, 5);
+    color: white;
+}
+h1{
+    font-size: 30px;
+    border-style: double;
+    border-color: black;
+    margin: 30px 800px;
+    padding: 20px 20px 20px 50px;
+}
+h2 {
+    border-style: solid;
+    border-color: #deb887;
+    margin: 30px 800px;
+    padding: 10px 10px 10px 100px;
+}
+p {
+    font-size: 20px;
+    color: lightgray;
+    border-style: dashed;
+    border-radius: 10px;
+    margin: 30px 50px;
+    padding: 10px 10px;
+}
+.my_div {
+    border: 2px dotted white;
+    width: 100px;
+    height: 100px;
+}
+ol {
+    list-style-type: lower-alpha;
+}
+ul {
+    list-style-type: square;
+}
+a {
+    color: rgb(3, 9, 32);
+    font-size: xx-large;
+}
+figure {
+    width: fit-content;
+    float: left;
+}
+.figure2 {
+    width: fit-content;
+    float: right;
