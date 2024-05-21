@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+.row {
+    font-size: x-large;
+    border-style: groove;
+    border-color: black;
+    border-radius: 12px;
+}

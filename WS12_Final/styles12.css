@@ -1,0 +1,12 @@
+.wrapper > div {
+    flex: 1;
+    background-color: rgb(10, 10, 7);
+    padding: 1em;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+.wrapper {
+    display: flex;
+    height: 50%;
+}
