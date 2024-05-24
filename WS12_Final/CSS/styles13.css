@@ -5,12 +5,15 @@
     text-align: center;
     font-size: large;
     font-weight: bold;
-}
-.wrapper {
+   }
+   .wrapper {
     display: flex;
     height: 50%;
-    background-color: royalblue;
 }
+   
+    
+
+
 
 
 
